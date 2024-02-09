@@ -7,6 +7,6 @@ import './styles/globals.css';
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
     <App />
-    <Toaster />
+    <Toaster richColors />
   </React.StrictMode>,
 );
